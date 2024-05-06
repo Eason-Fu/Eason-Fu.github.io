@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "付怡鑫（Eason Fu）"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/21.6白底免冠.jpg"
   bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  location         : "Changchun, Jilin, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : ""
+  email            : "fuyx0621@mails.jlu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
