@@ -23,11 +23,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "付怡鑫（Eason Fu）"
   avatar           : "images/21.6白底免冠.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "Jilin University"
   location         : "Changchun, Jilin, China"
   employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : 
   email            : "fuyx0621@mails.jlu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/Eason-Fu"
   google_plus      :
   keybase          :
   instagram        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  bilibili         : "https://space.bilibili.com/36700976?spm_id_from=333.1007.0.0"
   wikipedia        :
 
 
