@@ -23,9 +23,21 @@ redirect_from:
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-# 📖 Educations
-- **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>吉林大学</a>，经济学院经济学专业，本科，吉林省长春市 （*GPA:3.69/4   89.16/100*）；
-- **2018.09 - 2021.06**，<a href='http://www.zzms.com/'>郑州中学</a>，文科实验班，河南省郑州市（*评级：A   635/750*）；
+# 📖 教育经历
+- **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>吉林大学</a>，经济学院经济学专业，本科，吉林省长春市 （*GPA:3.69/4&nbsp&nbsp&nbsp89.16/100*）；
+- **2018.09 - 2021.06**，<a href='http://www.zzms.com/'>郑州中学</a>，文科实验班，河南省郑州市（*评级：A&nbsp&nbsp&nbsp635/750*）；
+
+# 📖 educations
+- **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>Jilin University</a>，economics，bachelor，Changchun Jilin（*GPA:3.69/4&nbsp&nbsp&nbsp89.16/100*）；
+- **2018.09 - 2021.06**，<a href='http://www.zzms.com/'>Zhengzhou middle school</a>，Liberal art，Zhengzhou Henan（*Level：A&nbsp&nbsp&nbsp635/750*）；
+
+
+
+
+
+
+
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
