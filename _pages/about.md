@@ -31,8 +31,8 @@ My research interest includes neural machine translation and computer vision. I 
 - **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>Jilin University</a>，economics，bachelor，Changchun Jilin（*GPA:3.69/4&nbsp&nbsp&nbsp89.16/100*）；
 - **2018.09 - 2021.06**，<a href='http://www.zzms.com/'>Zhengzhou middle school</a>，Liberal art，Zhengzhou Henan（*Level：A&nbsp&nbsp&nbsp635/750*）；
 
-<h2 id=secnews>🔥 news </h2>
-- *2024.04*: &nbsp;🎉🎉 付怡鑫作为知名帅哥开始搭建自己的主页了. 
+<h1 id=secnews>🔥 相关新闻 </h1>
+- *2024.04*: &nbsp;🎉🎉 付怡鑫作为知名帅哥开始搭建自己的主页了.  
 - *2022.02*: &nbsp;🎉🎉 测试测试. 
 
 # 🔥 news
