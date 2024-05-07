@@ -4,19 +4,21 @@ main:
     url: "/#about-me"
 
   - title: "教育经历"
-    url: "/#-educations"
+    url: "/#sec1"
 
   - title: "相关新闻"
-    url: "/#secnews"
+    url: "/#sec2"
 
   - title: "发表文章"
-    url: "/#-publications"
-
-  - title: "荣誉奖项"
-    url: "/#-Honors and Awards"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#sec3"
 
   - title: "实习经历"
-    url: "/#-internships"
+    url: "/#sec4"
+    
+  - title: "荣誉奖项"
+    url: "/#sec5"
+
+  - title: "Invited Talks"
+    url: "/#sec6"
+
+
