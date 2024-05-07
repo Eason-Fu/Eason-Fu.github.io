@@ -39,6 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
 <h1 id=sec3>📝 发表文章 </h1>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -56,22 +57,26 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 📝 Publications
+？？？
 
-<h1 id=sec4>实习经历</h1>
+
+<h1 id=sec4>💻 实习经历</h1>
 - *2019.05 - 2020.02*，干啥去了来着，北京；
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
+
 <h1 id=sec5>🎖 荣誉奖项</h1>
 - *2021.10* 有吗有吗有吗. 
 
 # 🎖 Honors and Awards
+- *2021.10* ,nothing but a smile,:).
+
 
 <h1 id=sec6>💬 Invited Talks </h1>
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*，被邀请在餐桌上发表重要讲话； 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-<h1 id=sec5>💬 Invited Talks</h1>
-
 # 💬 Invited Talks
+- *2021.03*, hahaha
