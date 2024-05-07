@@ -21,6 +21,8 @@ redirect_from:
 
 研究兴趣主要包括：数字经济、政策评价、绿色经济等。
 
+<a href=https://github.com/Eason-Fu/MyCV/blob/main/%E4%BB%98%E6%80%A1%E9%91%AB%E7%AE%80%E5%8E%86_%E4%B8%AD%E6%96%87_240507.pdf>个人简历</a>
+
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 <h1 id=sec1>📖 教育经历</h1>
