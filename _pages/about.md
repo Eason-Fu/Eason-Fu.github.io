@@ -17,13 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-目前就读于<a href='http://jjxy.jlu.edu.cn/'>吉林大学经济学院</a> ，专业为经济学。
+我目前就读于<a href='http://jjxy.jlu.edu.cn/'>吉林大学经济学院</a> ，专业为经济学。
 
 研究兴趣主要包括：数字经济、政策评价、绿色经济等。
 
-<a href="付怡鑫简历_中文_240507.pdf" download="_pages/付怡鑫简历_中文_240507.pdf">个人简历</a>
+我的英语水平：
+<table border = '2' width = '40%' style = "margin:0 30%; text-align:center;">
+  		<tr>
+		    <td colspan = '6' align="center">IELTS (2024.04.20)_<i>24CN013948FUY001A</i></td> 
+		  </tr>
+		  <tr>
+		    <td>Listening</td> <td>Reading</td> <td>Writing</td> <td>Speaking</td> <td>Overall</td> <td>CEFR Level</td> 
+		  </tr>
+		  <tr>
+		    <td>6.0</td> <td><b>8.5</b></td> <td>6.0</td> <td>6.0</td> <td>6.5</td> <td>B2</td>
+		  </tr>
+      <tr>
+		    <td colspan = '6'><b>OVERALL(6.5):</b>Between a competent user and a good user. <br><b>READING(8.5):</b>Test takers at this band can typically deal effectively with a variety of factual and opinion-based texts that are often complex and dense with information</td> 
+		  </tr>
+		</table>
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<a href="_pages/付怡鑫简历_中文_240507.pdf" download="付怡鑫简历_中文_240507.pdf">个人简历</a>
+
+我的计算机技能：Stata &#x2714; ；Python &#x2714; ；HTML &#x2714; ；Latex &#x2714; ；Pr &#x2714; ；Photoshop &#x2714; ......
 
 <h1 id=sec1>📖 教育经历</h1>
 - **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>吉林大学</a>，经济学院经济学专业，本科，吉林省长春市 （*GPA:3.69/4&nbsp;&nbsp;&nbsp;89.16/100*）；
@@ -70,10 +86,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 <h1 id=sec5>🎖 荣誉奖项</h1>
-- *2021.10* 有吗有吗有吗. 
+- *2022.12* ，[教育部国家奖学金](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202212/t20221227_1036671.html) （top 0.3%）
+- *2022.12* ，吉林大学校优秀学生干部、吉林大学校优秀学生
+- *2022.11* ，太平奖学金（全校15人）
 
 # 🎖 Honors and Awards
-- *2021.10* ,nothing but a smile,:).
+- *2022.12* ,nothing but a smile,:).
 
 
 <h1 id=sec6>💬 Invited Talks </h1>
