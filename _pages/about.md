@@ -22,7 +22,7 @@ redirect_from:
 研究兴趣主要包括：数字经济、政策评价、绿色经济等。
 
 我的英语水平：
-<table border = '2' width = '40%' style = "margin:0 30%; text-align:center;">
+<table border = '2' width = '40%' style = "margin:0 30%; ">
   		<tr>
 		    <td colspan = '6' align="center">IELTS (2024.04.20)_<i>24CN013948FUY001A</i></td> 
 		  </tr>
