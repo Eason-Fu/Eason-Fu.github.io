@@ -37,25 +37,18 @@ redirect_from:
 		  </tr>
 		</table>
 
-<a href="_pages/付怡鑫简历_中文_240507.pdf" download="付怡鑫简历_中文_240507.pdf">个人简历</a>
-
 我的计算机技能：Stata &#x2714; ；Python &#x2714; ；HTML &#x2714; ；Latex &#x2714; ；Pr &#x2714; ；Photoshop &#x2714; ......
+
+请您下载我的 :point_right: <a href="_pages/付怡鑫简历_中文_240507.pdf" download="付怡鑫简历_中文_240507.pdf">个人简历</a>
 
 <h1 id=sec1>📖 教育经历</h1>
 - **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>吉林大学</a>，经济学院经济学专业，本科，吉林省长春市 （*GPA:3.69/4&nbsp;&nbsp;&nbsp;89.16/100*）；
 - **2018.09 - 2021.06**，<a href='http://www.zzms.com/'>郑州中学</a>，文科实验班，河南省郑州市（*评级：A&nbsp;&nbsp;&nbsp;635/750*）；
 
-# 📖 Educations
-- **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>Jilin University</a>，economics，bachelor，Changchun Jilin（*GPA:3.69/4&nbsp;&nbsp;&nbsp;89.16/100*）；
-- **2018.09 - 2021.06**，<a href='http://www.zzms.com/'>Zhengzhou middle school</a>，Liberal art，Zhengzhou Henan（*Level：A&nbsp;&nbsp;&nbsp;635/750*）；
 
 <h1 id=sec2>🔥 相关新闻 </h1>
-- *2024.04*: &nbsp;🎉🎉 付怡鑫作为知名帅哥开始搭建自己的主页了.  
+- *2024.04*: &nbsp;🎉🎉 [吉林大学经济学院举办经济探索学会40周年庆典活动](http://jjxy.jlu.edu.cn/info/1058/17485.htm)  
 - *2022.02*: &nbsp;🎉🎉 测试测试. 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
 <h1 id=sec3>📝 发表文章 </h1>
@@ -74,15 +67,9 @@ redirect_from:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 📝 Publications
-？？？
-
 
 <h1 id=sec4>💻 实习经历</h1>
 - *2019.05 - 2020.02*，干啥去了来着，北京；
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
 <h1 id=sec5>🎖 荣誉奖项</h1>
@@ -94,13 +81,8 @@ redirect_from:
 - *2022.12* ，吉林大学校优秀学生干部（5%）、吉林大学校优秀学生
 - *2022.11* ，太平奖学金（全校15人）
 
-# 🎖 Honors and Awards
-- *2022.12* ,nothing but a smile,:).
-
 
 <h1 id=sec6>💬 Invited Talks </h1>
 - *2021.06*，被邀请在餐桌上发表重要讲话； 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💬 Invited Talks
-- *2021.03*, hahaha
