@@ -22,7 +22,7 @@ redirect_from:
 研究兴趣主要包括：数字经济、政策评价、绿色经济等。
 
 我的英语水平：
-<table border = '2' width = '40%' style = "margin:0 30%; ">
+<table border = '2' width = '40%' style = "margin:0 30%;text-align: left;">
   		<tr>
 		    <td colspan = '6' align="center">IELTS (2024.04.20)_<i>24CN013948FUY001A</i></td> 
 		  </tr>
@@ -39,7 +39,7 @@ redirect_from:
 
 我的计算机技能：Stata &#x2714; ；Python &#x2714; ；HTML &#x2714; ；Latex &#x2714; ；Pr &#x2714; ；Photoshop &#x2714; ......
 
-请您下载我的 :point_right: <a href="_pages/付怡鑫简历_中文_240507.pdf" download="付怡鑫简历_中文_240507.pdf">个人简历</a>
+请您下载我的 👉 <a href="_pages/付怡鑫简历_中文_240507.pdf" download="付怡鑫简历_中文_240507.pdf">个人简历</a>
 
 <h1 id=sec1>📖 教育经历</h1>
 - **2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>吉林大学</a>，经济学院经济学专业，本科，吉林省长春市 （*GPA:3.69/4&nbsp;&nbsp;&nbsp;89.16/100*）；
