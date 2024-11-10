@@ -17,42 +17,70 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<h2>关于我</h2>
+<h2>👤 关于我 & ABOUT ME</h2>
 <p>我目前就读于<a href='http://jjxy.jlu.edu.cn/'>吉林大学经济学院</a>，专业为经济学。</p>
 <p>研究兴趣包括：数字经济、政策评价、绿色经济等。</p>
 
-<h2>我的英语水平</h2>
-<table border='1' width='60%' style="margin: 20px auto; text-align: center;">
-  <tr>
-    <th colspan="6">IELTS (2024.04.20) <i>24CN013948FUY001A</i></th>
+<h2>🌐 我的英语水平 & MY ENGLISH LEVEL</h2>
+<table style="width: 60%; margin: 20px auto; text-align: center; border-collapse: collapse; font-family: Arial, sans-serif; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <tr style="background-color: #4CAF50; color: white;">
+    <th colspan="6" style="padding: 10px; font-size: 1.2em;">IELTS (2024.04.20) <i>24CN013948FUY001A</i></th>
+  </tr>
+  <tr style="background-color: #f2f2f2; color: #333;">
+    <th>Listening</th> 
+    <th>Reading</th> 
+    <th>Writing</th> 
+    <th>Speaking</th> 
+    <th>Overall</th> 
+    <th>CEFR Level</th>
+  </tr>
+  <tr style="color: #333;">
+    <td>6.0</td> 
+    <td><b>8.5</b></td> 
+    <td>6.0</td> 
+    <td>6.0</td> 
+    <td>6.5</td> 
+    <td>B2</td>
   </tr>
   <tr>
-    <th>Listening</th> <th>Reading</th> <th>Writing</th> <th>Speaking</th> <th>Overall</th> <th>CEFR Level</th>
-  </tr>
-  <tr>
-    <td>6.0</td> <td><b>8.5</b></td> <td>6.0</td> <td>6.0</td> <td>6.5</td> <td>B2</td>
-  </tr>
-  <tr>
-    <td colspan="6"><b>OVERALL(6.5):</b> Between a competent user and a good user.<br><b>READING(8.5):</b> Test takers at this band can typically deal effectively with complex texts.</td>
+    <td colspan="6" style="padding: 15px; background-color: #f9f9f9; font-size: 0.9em; color: #555; line-height: 1.5;">
+      <b>OVERALL (6.5):</b> Between a competent user and a good user.<br>
+      <b>READING (8.5):</b> Test takers at this band can typically deal effectively with complex texts.
+    </td>
   </tr>
 </table>
 
-<h2>我的计算机技能</h2>
-<ul style="list-style-type: none; padding: 0;">
-  <li>Stata &#x2714;</li>
-  <li>Python &#x2714;</li>
-  <li>HTML &#x2714;</li>
-  <li>Latex &#x2714;</li>
-  <li>Pr &#x2714;</li>
-  <li>Photoshop &#x2714;</li>
+<h2>💻 我的计算机技能 & MY COMPUTER ABILITY</h2>
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap;">
+  <li style="margin-right: 15px;">Stata &#x2714;</li>
+  <li style="margin-right: 15px;">Python &#x2714;</li>
+  <li style="margin-right: 15px;">HTML &#x2714;</li>
+  <li style="margin-right: 15px;">Latex &#x2714;</li>
+  <li style="margin-right: 15px;">Pr &#x2714;</li>
+  <li style="margin-right: 15px;">Photoshop &#x2714;</li>
 </ul>
 
 <p>请您下载我的 👉 <a href="_pages/付怡鑫简历_中文_240507.pdf" download="付怡鑫简历_中文_240507.pdf">个人简历</a></p>
 
 <h2>📖 教育经历</h2>
-<ul>
-  <li>**2021.09 - 2024.05 (now)**，<a href='https://www.jlu.edu.cn/'>吉林大学</a>，经济学院经济学专业，本科，吉林省长春市 （*GPA: 3.69/4; 89.16/100*）</li>
-  <li>**2018.09 - 2021.06**，<a href='http://www.zzms.com/'>郑州中学</a>，文科实验班，河南省郑州市（*评级：A; 635/750*）</li>
+<ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif;">
+  <li style="margin-bottom: 15px;">
+    <span style="font-weight: bold; color: #4CAF50;">2025.09 - 2027.06</span> |
+    <a href="https://www.ruc.edu.cn/" style="color: #333; text-decoration: none; font-weight: bold;">中国人民大学</a> - 硕士, 理论经济学（人口、资源与环境经济学）
+    <span style="color: #777;">| 北京市（保送攻读）</span>
+  </li>
+  <li style="margin-bottom: 15px;">
+    <span style="font-weight: bold; color: #4CAF50;">2021.09 - 2025.06 (now)</span> |
+    <a href="https://www.jlu.edu.cn/" style="color: #333; text-decoration: none; font-weight: bold;">吉林大学</a> - 学士, 理论经济学（经济学）
+    <span style="color: #777;">| 吉林省长春市</span><br>
+    <span style="font-size: 0.9em; color: #555;">GPA: 3.69/4; 89.16/100</span>
+  </li>
+  <li>
+    <span style="font-weight: bold; color: #4CAF50;">2018.09 - 2021.06</span> |
+    <a href="http://www.zzms.com/" style="color: #333; text-decoration: none; font-weight: bold;">郑州中学</a> - 文科实验班
+    <span style="color: #777;">| 河南省郑州市</span><br>
+    <span style="font-size: 0.9em; color: #555;">评级: A; 635/750</span>
+  </li>
 </ul>
 
 <h2>🔥 相关新闻</h2>
