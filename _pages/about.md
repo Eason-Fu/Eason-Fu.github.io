@@ -65,15 +65,13 @@ redirect_from:
 <h2>📖 教育经历 & Education experience</h2>
 <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif; line-height: 1.8; color: #333;">
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
-    <span><strong>2025.09 - 2027.06</strong> | <a href="https://www.ruc.edu.cn/" style="text-decoration: none; color: #333;"><strong>中国人民大学</strong></a> - 硕士, 理论经济学（人口、资源与环境经济学） | 北京市（保送攻读）</span>
+    <span><strong>2025.09 - 2027.06</strong> | <a href="https://www.ruc.edu.cn/" style="text-decoration: none; color: #333;"><strong>中国人民大学</strong style="border-bottom: 1px solid; padding-bottom: 2px;"></a> - 硕士, 理论经济学（人口、资源与环境经济学） | 北京市（保送攻读）</span>
   </li>
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
-    <span><strong>2021.09 - 2025.06 (now)</strong> | <a href="https://www.jlu.edu.cn/" style="text-decoration: none; color: #333;"><strong>吉林大学</strong></a> - 学士, 理论经济学（经济学） | 吉林省长春市</span>
-    <span style="font-size: 0.9em; color: #555;">GPA: 3.69/4; 89.16/100</span>
+    <span><strong>2021.09 - 2025.06 (now)</strong> | <a href="https://www.jlu.edu.cn/" style="text-decoration: none; color: #333;"><strong style="border-bottom: 1px solid; padding-bottom: 2px;">吉林大学</strong></a> - 学士, 理论经济学（经济学） | 吉林省长春市 | (GPA: 3.69/4; 89.16/100)</span>
   </li>
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
-    <span><strong>2018.09 - 2021.06</strong> | <a href="http://www.zzms.com/" style="text-decoration: none; color: #333;"><strong>郑州中学</strong></a> - 文科实验班 | 河南省郑州市</span>
-    <span style="font-size: 0.9em; color: #555;">评级: A; 635/750</span>
+    <span><strong>2018.09 - 2021.06</strong> | <a href="http://www.zzms.com/" style="text-decoration: none; color: #333;"><strong style="border-bottom: 1px solid; padding-bottom: 2px;">郑州中学</strong></a> - 文科实验班 | 河南省郑州市 | (Grade: 9A; 635/750)</span>
   </li>
 </ul>
 
