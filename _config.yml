@@ -161,3 +161,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# _config.yml
+markdown: kramdown
+highlighter: rouge
+
+# Add custom CSS file
+include:
+  - assets/css/custom.css
