@@ -65,7 +65,7 @@ redirect_from:
 <h2>📖 教育经历 & Education experience</h2>
 <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif; line-height: 1.8; color: #333;">
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
-    <span><strong>2025.09 - 2027.06</strong> | <a href="https://www.ruc.edu.cn/" style="text-decoration: none; color: #333;"><strong>中国人民大学</strong style="border-bottom: 1px solid; padding-bottom: 2px;"></a> - 硕士, 理论经济学（人口、资源与环境经济学） | 北京市（保送攻读）</span>
+    <span><strong>2025.09 - 2027.06</strong> | <a href="https://www.ruc.edu.cn/" style="text-decoration: none; color: #333;"><strong style="border-bottom: 1px solid; padding-bottom: 2px;">中国人民大学</strong></a> - 硕士, 理论经济学（人口、资源与环境经济学） | 北京市（保送攻读）</span>
   </li>
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
     <span><strong>2021.09 - 2025.06 (now)</strong> | <a href="https://www.jlu.edu.cn/" style="text-decoration: none; color: #333;"><strong style="border-bottom: 1px solid; padding-bottom: 2px;">吉林大学</strong></a> - 学士, 理论经济学（经济学） | 吉林省长春市 | (GPA: 3.69/4; 89.16/100)</span>
@@ -76,25 +76,25 @@ redirect_from:
 </ul>
 
 
-<h2>📝 发表文章 & Papers</h2>
+<h2 style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">📝 发表文章 & Papers</h2>
 <ul>
   <li><strong>2024</strong>，<em>数据要素的绿色创新效应——基于政府数据开放的准自然实验</em>（工作论文）</li>
 </ul>
 
-<h2>💻 实习经历 & Internship Experience</h2>
+<h2 style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">💻 实习经历 & Internship Experience</h2>
 <ul>
   <li><strong>2023.07-2023.08</strong>，北京市市场监督管理局，政务实习</li>
   <li><strong>2023.08-2023.09</strong>，北京银行总行，授信审批部</li>
   <li><strong>2024.07-2024.11</strong>，委，体改司</li>
 </ul>
 
-<h2>🎖 荣誉奖项 & Honors</h2>
+<h2 style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">🎖 荣誉奖项 & Honors</h2>
 <ul>
   <li>*2023.12* ，吉林大学一等奖学金（5%）</li>
   <li>*2022.12* ，教育部国家奖学金（1%）</li>
 </ul>
 
-<h2>🔥 其他内容 & Other news</h2>
+<h2 style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">🔥 其他内容 & Other news</h2>
 <ul>
   <li><em>2024.04</em> 🎉🎉 <a href="http://jjxy.jlu.edu.cn/info/1058/17485.htm" style="text-decoration: none; color: #333; font-weight: bold;">吉林大学经济学院举办经济探索学会40周年庆典活动</a></li>
 </ul>
