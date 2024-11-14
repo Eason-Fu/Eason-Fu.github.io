@@ -62,7 +62,7 @@ redirect_from:
 
 <p>请您下载我的 👉 <a href="_pages/付怡鑫简历_中文_240507.pdf" download="付怡鑫简历_中文_240507.pdf">个人简历</a></p>
 
-<h2>📖 教育经历 & Education experience</h2>
+<h2 style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">📖 教育经历 & Education experience</h2>
 <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif; line-height: 1.8; color: #333;">
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
     <span><strong>2025.09 - 2027.06</strong> | <a href="https://www.ruc.edu.cn/" style="text-decoration: none; color: #333;"><strong style="border-bottom: 1px solid; padding-bottom: 2px;">中国人民大学</strong></a> - 硕士, 理论经济学（人口、资源与环境经济学） | 北京市（保送攻读）</span>
