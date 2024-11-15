@@ -22,33 +22,9 @@ redirect_from:
 <p>研究兴趣包括：数字经济、政策评价、绿色经济等。</p>
 
 <p>🌐 我的英语水平 & MY ENGLISH LEVEL</p>
-<table style="width: 60%; margin: 20px 2; border-collapse: collapse; font-family: Arial, sans-serif; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <tr>
-    <th colspan="6" style="padding: 10px; font-size: 1.2em; text-align: left;">IELTS (2024.04.20) <i>24CN013948FUY001A</i></th>
-  </tr>
-  <tr style="background-color: #f2f2f2; color: #333;">
-    <th style="padding: 8px; text-align: left;">Listening</th> 
-    <th style="padding: 8px; text-align: left;">Reading</th> 
-    <th style="padding: 8px; text-align: left;">Writing</th> 
-    <th style="padding: 8px; text-align: left;">Speaking</th> 
-    <th style="padding: 8px; text-align: left;">Overall</th> 
-    <th style="padding: 8px; text-align: left;">CEFR Level</th>
-  </tr>
-  <tr style="color: #333;">
-    <td style="padding: 8px;">6.0</td> 
-    <td style="padding: 8px;"><b>8.5</b></td> 
-    <td style="padding: 8px;">6.0</td> 
-    <td style="padding: 8px;">6.0</td> 
-    <td style="padding: 8px;">6.5</td> 
-    <td style="padding: 8px;">B2</td>
-  </tr>
-  <tr>
-    <td colspan="6" style="padding: 15px; background-color: #f9f9f9; font-size: 0.9em; color: #555; line-height: 1.5; text-align: center;">
-      <b>OVERALL (6.5):</b> Between a competent user and a good user.<br>
-      <b>READING (8.5):</b> Test takers at this band can typically deal effectively with complex texts.
-    </td>
-  </tr>
-</table>
+<ul style="list-style-type: none; padding: 0; margin: 0; font-size: 1em; line-height: 1.5;">
+  <li style="text-align: left; margin-bottom: 5px;">IELTS: 6.5 (2024.04 | 24CN013948FUY001A) <span style="font-size: 0.9em; color: #666;">CEFR: B2</span></li>
+</ul>
 
 <p>💻 我的计算机技能 & My Computer Ability</p>
 <ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap;">
