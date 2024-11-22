@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Eason's Homepage"
-description              : "Welcome to my homepage. Make it to record my progress in academics and some interesting."
+description              : "“there is only one true heroism in the world: to see the world as it is, and to love it”"
 repository               : "Eason-Fu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "付怡鑫（Eason Fu）"
+  name             : "付怡鑫" <br> "（Eason Fu）"
   avatar           : "images/21.6白底免冠.jpg"
   bio              : "Renmin University of China"
   location         : "Beijing, China / Zhengzhou, China"
