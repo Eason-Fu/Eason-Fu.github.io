@@ -35,17 +35,17 @@ redirect_from:
 <ul style="list-style-type: none; padding: 0; font-family: Arial, sans-serif; line-height: 1.8; color: #333;">
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
     <span><strong>2025.09 - 2027.06</strong></span>
-    <span><a href="https://www.ruc.edu.cn/" target="_blank" style="color: #007BFF; text-decoration: none;"> 中国人民大学 </a> - 硕士, 理论经济学（人口、资源与环境经济学） | 北京市 |<span style="font-style: italic;">保送攻读 </span></span>
+    <span><a href="https://www.ruc.edu.cn/" target="_blank" style="text-decoration: none; color: #333; font-weight: bold;"> 中国人民大学 </a> - 硕士, 理论经济学（人口、资源与环境经济学） | 北京市 |<span style="font-style: italic;">保送攻读 </span></span>
     <span>Renmin University of China - Master, Theoretical Economics (Population, Resources, and Environmental Economics) | Beijing |<span style="font-style: italic;">Exempted from the Entrance Exam </span></span>
   </li>
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
     <span><strong>2021.09 - 2025.06 (now)</strong></span>
-    <span><a href="https://www.jlu.edu.cn/" target="_blank" style="color: #007BFF; text-decoration: none;"> 吉林大学 </a> - 学士, 理论经济学（经济学） | 吉林省长春市 |<span style="font-style: italic;">GPA: 3.69/4; 89.16/100 </span> </span>
+    <span><a href="https://www.jlu.edu.cn/" target="_blank" style="text-decoration: none; color: #333; font-weight: bold;"> 吉林大学 </a> - 学士, 理论经济学（经济学） | 吉林省长春市 |<span style="font-style: italic;">GPA: 3.69/4; 89.16/100 </span> </span>
     <span>Jilin University - Bachelor, Theoretical Economics (Economics) | Changchun, Jilin Province |<span style="font-style: italic;">GPA: 3.69/4; 89.16/100 </span> </span>
   </li>
   <li style="margin-bottom: 20px; display: flex; flex-direction: column;">
     <span><strong>2018.09 - 2021.06</strong></span>
-    <span><a href="https://www.zzms.com/" target="_blank" style="color: #007BFF; text-decoration: none;"> 郑州中学 </a> - 文科实验班 | 河南省郑州市 |<span style="font-style: italic;">Grade: 9A; 635/750 </span> </span>
+    <span><a href="https://www.zzms.com/" target="_blank" style="text-decoration: none; color: #333; font-weight: bold;"> 郑州中学 </a> - 文科实验班 | 河南省郑州市 |<span style="font-style: italic;">Grade: 9A; 635/750 </span> </span>
     <span>Zhengzhou Middle School - Humanities Experimental Class | Zhengzhou, Henan Province |<span style="font-style: italic;">Grade: 9A; 635/750 </span></span>
   </li>
 </ul>
